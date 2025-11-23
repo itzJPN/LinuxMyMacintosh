@@ -1,7 +1,7 @@
 
 ___
 
-**LinuxMyMacintosh** ([Click me to download](https://itzjpn.github.io/LinuxMyMacintosh/LinuxMyMacintosh.sh))
+**LinuxMyMacintosh** ([Click me to download](https://itzjpn.github.io/LinuxMyMacintosh/LinuxMyMac.sh))
 
 
 
