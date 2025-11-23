@@ -251,6 +251,5 @@ echo """
 Usage:
     -install (install lima and LinuxMyMacintosh)
     -erase (erase lima and LinuxMyMacintosh)
-    -reconfigure (reconfigure Linux and lima)
 """
 fi
